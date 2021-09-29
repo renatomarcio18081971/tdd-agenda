@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UOm6ywR32syI17ZtDeaT6zTOuD/nnd/WfepO8+oebcgICvN7eMAIwKDUeU5t4HLMn6AxtoXaZik6qATzECuU8g==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\tdd\\tdd-agenda\\Agenda\\Agenda.DAL.Test\\Agenda.DAL.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Renato\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Renato\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Renato\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

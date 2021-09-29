@@ -1,0 +1,11 @@
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\bin\Debug\net5.0\Agenda.DAL.deps.json
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\bin\Debug\net5.0\Agenda.DAL.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\bin\Debug\net5.0\ref\Agenda.DAL.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\bin\Debug\net5.0\Agenda.DAL.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.AssemblyInfoInputs.cache
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.AssemblyInfo.cs
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.csproj.CoreCompileInputs.cache
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\ref\Agenda.DAL.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.pdb
