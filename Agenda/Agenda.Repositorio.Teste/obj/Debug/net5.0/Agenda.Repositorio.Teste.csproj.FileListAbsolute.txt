@@ -1,0 +1,11 @@
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\bin\Debug\net5.0\Agenda.Repositorio.Teste.deps.json
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\bin\Debug\net5.0\Agenda.Repositorio.Teste.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\bin\Debug\net5.0\ref\Agenda.Repositorio.Teste.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\bin\Debug\net5.0\Agenda.Repositorio.Teste.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\obj\Debug\net5.0\Agenda.Repositorio.Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\obj\Debug\net5.0\Agenda.Repositorio.Teste.AssemblyInfoInputs.cache
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\obj\Debug\net5.0\Agenda.Repositorio.Teste.AssemblyInfo.cs
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\obj\Debug\net5.0\Agenda.Repositorio.Teste.csproj.CoreCompileInputs.cache
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\obj\Debug\net5.0\Agenda.Repositorio.Teste.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\obj\Debug\net5.0\ref\Agenda.Repositorio.Teste.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio.Teste\obj\Debug\net5.0\Agenda.Repositorio.Teste.pdb

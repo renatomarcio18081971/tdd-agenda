@@ -13,8 +13,10 @@ D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Agenda.Data.
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Agenda.Data.Test.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\ref\Agenda.Data.Test.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Agenda.Data.Test.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\AutoFixture.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Dapper.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Fare.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
@@ -25,7 +27,6 @@ D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Newtonsoft.J
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\NuGet.Frameworks.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\nunit.framework.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\System.Data.SqlClient.dll
-D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -110,4 +111,4 @@ D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\obj\Debug\net5.0\Agenda.Data.
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\obj\Debug\net5.0\ref\Agenda.Data.Test.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\obj\Debug\net5.0\Agenda.Data.Test.pdb
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\obj\Debug\net5.0\Agenda.Data.Test.genruntimeconfig.cache
-D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\Dapper.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Data.Test\bin\Debug\net5.0\testcentric.engine.metadata.dll

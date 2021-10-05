@@ -16,10 +16,10 @@ namespace Agenda.DAL
             conexao.Execute(sql);
         }
 
-        public Contato Obter(string nome)
+        public Contato Obter(Guid id)
         {
             var conexao = Conexao.AbreConexao();
-            Contato contato = conexao.QueryFirst<Contato>("select * from contato where nome = @nome ", new { nome = nome });
+            Contato contato = conexao.QueryFirst<Contato>($"select * from contato where id = '{id}' ");
             return contato;           
         }
 

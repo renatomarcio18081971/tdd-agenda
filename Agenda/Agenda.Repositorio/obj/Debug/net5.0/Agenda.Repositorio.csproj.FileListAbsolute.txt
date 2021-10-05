@@ -1,0 +1,17 @@
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\bin\Debug\net5.0\Agenda.Repositorio.deps.json
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\bin\Debug\net5.0\Agenda.Repositorio.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\bin\Debug\net5.0\ref\Agenda.Repositorio.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\bin\Debug\net5.0\Agenda.Repositorio.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\bin\Debug\net5.0\Agenda.DAL.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\bin\Debug\net5.0\Agenda.Domain.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\bin\Debug\net5.0\Agenda.DAL.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\bin\Debug\net5.0\Agenda.Domain.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\obj\Debug\net5.0\Agenda.Repositorio.csproj.AssemblyReference.cache
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\obj\Debug\net5.0\Agenda.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\obj\Debug\net5.0\Agenda.Repositorio.AssemblyInfoInputs.cache
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\obj\Debug\net5.0\Agenda.Repositorio.AssemblyInfo.cs
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\obj\Debug\net5.0\Agenda.Repositorio.csproj.CoreCompileInputs.cache
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\obj\Debug\net5.0\Agenda.Repositorio.csproj.CopyComplete
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\obj\Debug\net5.0\Agenda.Repositorio.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\obj\Debug\net5.0\ref\Agenda.Repositorio.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Repositorio\obj\Debug\net5.0\Agenda.Repositorio.pdb

@@ -9,3 +9,4 @@ D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.c
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\ref\Agenda.Domain.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.csproj.AssemblyReference.cache

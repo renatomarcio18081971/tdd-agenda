@@ -5,6 +5,7 @@ D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\bin\Debug\net5.0-windows\Agen
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\bin\Debug\net5.0-windows\Agenda.UIDesktop.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\bin\Debug\net5.0-windows\ref\Agenda.UIDesktop.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\bin\Debug\net5.0-windows\Agenda.UIDesktop.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\bin\Debug\net5.0-windows\Dapper.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
@@ -27,4 +28,3 @@ D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\obj\Debug\net5.0-windows\Agen
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\obj\Debug\net5.0-windows\ref\Agenda.UIDesktop.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\obj\Debug\net5.0-windows\Agenda.UIDesktop.pdb
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\obj\Debug\net5.0-windows\Agenda.UIDesktop.genruntimeconfig.cache
-D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.UIDesktop\bin\Debug\net5.0-windows\Dapper.dll
