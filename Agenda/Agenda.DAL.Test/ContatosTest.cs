@@ -1,5 +1,6 @@
-﻿using System;
+﻿using Agenda.Domain;
 using NUnit.Framework;
+using System;
 
 namespace Agenda.DAL.Test
 {
@@ -19,10 +20,12 @@ namespace Agenda.DAL.Test
         [Test]
         public void IncluirContato()
         {
-            string id = Guid.NewGuid().ToString();
-            string nome = "carlos";
-
-            _contatos.Adicionar(id, nome);
+            var contato = new Contato
+            {
+                Id = Guid.NewGuid(),
+                Nome = "carlos"
+            };
+            _contatos.Adicionar(contato);
 
             Assert.True(true);
         }
@@ -30,7 +33,11 @@ namespace Agenda.DAL.Test
         [Test]
         public void ObterContato()
         {
+            string nome = "carlos";
 
+            var nomeResultado = _contatos.Obter(nome);
+
+            Assert.AreEqual(nome, nomeResultado);
         }
 
 

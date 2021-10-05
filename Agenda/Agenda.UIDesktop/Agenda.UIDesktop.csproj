@@ -10,4 +10,9 @@
     <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Agenda.DAL\Agenda.DAL.csproj" />
+    <ProjectReference Include="..\Agenda.Domain\Agenda.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

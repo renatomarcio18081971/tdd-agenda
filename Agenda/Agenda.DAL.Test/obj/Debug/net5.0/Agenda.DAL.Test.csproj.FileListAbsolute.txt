@@ -19,3 +19,5 @@ D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL.Test\obj\Debug\net5.0\Agenda.DAL.Te
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL.Test\obj\Debug\net5.0\Agenda.DAL.Test.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL.Test\obj\Debug\net5.0\ref\Agenda.DAL.Test.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL.Test\obj\Debug\net5.0\Agenda.DAL.Test.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL.Test\bin\Debug\net5.0\Agenda.Domain.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL.Test\bin\Debug\net5.0\Agenda.Domain.pdb

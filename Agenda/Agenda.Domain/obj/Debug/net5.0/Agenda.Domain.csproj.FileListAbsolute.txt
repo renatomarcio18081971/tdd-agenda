@@ -1,0 +1,12 @@
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\bin\Debug\net5.0\Agenda.Domain.deps.json
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\bin\Debug\net5.0\Agenda.Domain.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\bin\Debug\net5.0\ref\Agenda.Domain.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\bin\Debug\net5.0\Agenda.Domain.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.AssemblyInfoInputs.cache
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.AssemblyInfo.cs
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\ref\Agenda.Domain.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.csproj.AssemblyReference.cache

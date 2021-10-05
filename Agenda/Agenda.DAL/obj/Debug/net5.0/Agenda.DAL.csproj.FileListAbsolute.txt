@@ -9,3 +9,7 @@ D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.csproj.
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\ref\Agenda.DAL.dll
 D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.csproj.AssemblyReference.cache
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\bin\Debug\net5.0\Agenda.Domain.dll
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\bin\Debug\net5.0\Agenda.Domain.pdb
+D:\Projetos\tdd\tdd-agenda\Agenda\Agenda.DAL\obj\Debug\net5.0\Agenda.DAL.csproj.CopyComplete
