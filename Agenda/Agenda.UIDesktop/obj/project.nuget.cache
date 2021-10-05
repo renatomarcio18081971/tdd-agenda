@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LVm5w1xrQrAOPXxvR3xKLlzLXm2cdOI2M/jThtoC81vef+6Mjw12fqoe6d2I9o4ujoSt65kXPTWp4uFc9fDmyw==",
+  "dgSpecHash": "cau2283E/5gFAMLumb+WIvRa8w9Zr8G9aDug1VrYFwRbebbSL9FOS3r0Yp0PbA4GbQEdLo85/ieGVRbwBR5F+A==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\tdd\\tdd-agenda\\Agenda\\Agenda.UIDesktop\\Agenda.UIDesktop.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Renato\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\Renato\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Renato\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Renato\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

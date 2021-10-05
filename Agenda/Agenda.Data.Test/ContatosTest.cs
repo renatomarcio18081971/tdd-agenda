@@ -2,7 +2,6 @@ using Agenda.DAL;
 using Agenda.Domain;
 using NUnit.Framework;
 using System;
-using System.Linq;
 
 namespace Agenda.Data.Test
 {

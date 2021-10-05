@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "msilL68usFNnK+KEDeW+QldgZlqRorUFG8SKEMgG9gQYS7d2Whz4tDElBhtBSQW5NbXJdc7Da9rhGGgArkmtAQ==",
+  "dgSpecHash": "vWTMvprFDFPVeyLz4BuN7aXpmQ8/p/RqJOG3Wnif6g0XMuIJRW3NZP8s7SoVuRXK231b5ebuxtwBlDyZ4GJu5Q==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\tdd\\tdd-agenda\\Agenda\\Agenda.Data.Test\\Agenda.Data.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Renato\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\Renato\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\Renato\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Renato\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
