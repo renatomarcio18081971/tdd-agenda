@@ -1,4 +1,5 @@
 ﻿using Agenda.DAL;
+using Agenda.Domain;
 using Moq;
 using NUnit.Framework;
 using System;
@@ -27,9 +28,21 @@ namespace Agenda.Repositorio.Test
 
 
         [Test]
-        public void ObterContatoComListaDeTelefones()
+        public void DeveSerPossivelObterContatoComListaDeTelefones()
         {
+            Mock<IContato> mockContato = new Mock<IContato>();
+            mockContato.SetupGet(a => a.Id).Returns(Guid.NewGuid());
+            mockContato.SetupGet(a => a.Nome).Returns("Joao");
 
+            
+            _contatos.Setup(a => a.Obter(It.IsAny<Guid>())).Returns(mockContato.Object);
+
+            Mock<ITelefone> mockTelefone = new Mock<ITelefone>();
+            mockTelefone.SetupGet(a => a.Id).Returns(Guid.NewGuid);
+            mockTelefone.SetupGet(a => a.Numero).Returns("998168510");
+            mockTelefone.SetupGet(a => a.ContatoId).Returns(Guid.NewGuid);
+
+            _telefones.Setup(a => a.ObterTodosDoContato(It.IsAny<Guid>())).Returns(new List<ITelefone> { mockTelefone.Object });
         }
 
         [TearDown]
